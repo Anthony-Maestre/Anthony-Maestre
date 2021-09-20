@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **Anthony-Maestre/Anthony-Maestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Estoy trabajando actualmente en un proyecto privado.
+Estoy practicando y ampliando mis conocimientos en JavaScript y Python. Conozco las bases de los lenguajes C, C#, C++, JAVA, .NET5 y de las bibliotecas React, Angular, VueJS y Bootstrap.
+
+Pueden ponerse en contacto conmigo mediante mi correo personal maestreanthony@hotmail.com, o por mi numero de telefono +58 302 4726657 (WhatsApp)
